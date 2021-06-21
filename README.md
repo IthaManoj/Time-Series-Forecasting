@@ -14,4 +14,6 @@ The concepts included are given below:
   
   e) Decomposition of Time Series Components
   
+**Holt Winter Exponential Smoothing is also known as Triple Exponential Smoothing**
+  
 I am including the datasets also for the reference...
